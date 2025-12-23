@@ -7,7 +7,7 @@
 
 O **Planner Glow** é uma aplicação web de gerenciamento de tarefas focada em bem-estar e produtividade. Diferente de listas de tarefas comuns, ele integra um design visualmente agradável ("Glow UI"), categorização inteligente e um player de música lo-fi embutido para auxiliar na concentração.
 
-![assets/dashboard.jpg](./assets/preview-desktop.png)
+![dashboard.jpg](https://github.com/jessicaccl/planner-digital/blob/main/assets/dashboard.jpg)
 
 ## 📸 Visão Geral
 
@@ -15,9 +15,7 @@ O projeto possui um layout moderno e totalmente responsivo, adaptando-se perfeit
 
 ### Principais Funcionalidades
 
-* **Gerenciamento de Tarefas:** Adicione, conclua e exclua tarefas com facilidade.
-
-  ![assets/novatarefa.jpg](./assets/preview-desktop.png)
+* **Gerenciamento de Tarefas:** Adicione, conclua e exclua tarefas com facilidade.  
 
 * **Palavra do Dia:** Um card de inspiração diária com versículos que podem ser trocados aleatoriamente ao clicar no botão de atualizar.
 * **Categorização Inteligente:** Separe suas tarefas em:
@@ -32,8 +30,6 @@ O projeto possui um layout moderno e totalmente responsivo, adaptando-se perfeit
 ### 🧭 Navegação & Sidebar Inteligente
 A barra lateral foi totalmente refatorada para oferecer a melhor experiência de usuário (UX) em qualquer dispositivo:
 
-  ![assets/sidebarmobile.jpeg](./assets/preview-desktop.png)
-
 * **Comportamento Responsivo (Desktop):**
     * A barra possui dois estados: **Expandida** (280px) e **Recolhida** (80px).
     * No modo recolhido, os textos desaparecem e os ícones são centralizados automaticamente, otimizando o espaço de tela para o conteúdo principal.
@@ -43,8 +39,6 @@ A barra lateral foi totalmente refatorada para oferecer a melhor experiência de
     * Em telas menores, a sidebar se transforma em uma **Gaveta (Drawer)** oculta.
     * Acionamento via botão "Hambúrguer" flutuante.
     * Inclui um **Overlay** escuro no fundo para focar a atenção no menu quando aberto.
-
-      ![assets/prioridadesmobile.jpeg](./assets/preview-desktop.png)
 
 * **🎵 Music Player Integrado:**
     * Player de música Lo-Fi embutido diretamente na navegação.
