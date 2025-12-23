@@ -2,7 +2,12 @@
 
 > Organize suas prioridades diárias, foque no que importa e mantenha a produtividade com leveza.
 
+## 🔗 Projeto no ar
+[👉 Clique aqui para acessar o projeto](https://plannerglowdigital.netlify.app/)
+
 O **Planner Glow** é uma aplicação web de gerenciamento de tarefas focada em bem-estar e produtividade. Diferente de listas de tarefas comuns, ele integra um design visualmente agradável ("Glow UI"), categorização inteligente e um player de música lo-fi embutido para auxiliar na concentração.
+
+![dashboard.jpg](./assets/preview-desktop.png)
 
 ## 📸 Visão Geral
 
@@ -11,22 +16,23 @@ O projeto possui um layout moderno e totalmente responsivo, adaptando-se perfeit
 ### Principais Funcionalidades
 
 * **Gerenciamento de Tarefas:** Adicione, conclua e exclua tarefas com facilidade.
+
+  ![novatarefa.jpg](./assets/preview-desktop.png)
+
 * **Palavra do Dia:** Um card de inspiração diária com versículos que podem ser trocados aleatoriamente ao clicar no botão de atualizar.
 * **Categorização Inteligente:** Separe suas tarefas em:
     * 💼 **Meus Negócios** (Roxo)
     * 🧸 **Família & Kids** (Rosa)
     * ☕ **Tempo pra Mim** (Laranja)
-* **Ordenação Cronológica:** As tarefas são organizadas automaticamente por horário.
-* **Sidebar Responsiva:**
-    * *Desktop:* Barra lateral expandida ou recolhida.
-    * *Mobile:* Menu "hambúrguer" com overlay e animação suave.
+* **Ordenação Cronológica:** As tarefas são organizadas automaticamente por horário. 
 * **Music Player Integrado:** Um player minimalista na barra lateral com estação de rádio focada em produtividade. 
 * **Glow UI:** Efeitos de iluminação nos cards baseados na cor da categoria ao passar o mouse.
 * **Saudação Dinâmica:** O cabeçalho se adapta para exibir a data atual e uma saudação personalizada.
 
 ### 🧭 Navegação & Sidebar Inteligente
-
 A barra lateral foi totalmente refatorada para oferecer a melhor experiência de usuário (UX) em qualquer dispositivo:
+
+  ![sidebarmobile.jpeg](./assets/preview-desktop.png)
 
 * **Comportamento Responsivo (Desktop):**
     * A barra possui dois estados: **Expandida** (280px) e **Recolhida** (80px).
@@ -37,6 +43,8 @@ A barra lateral foi totalmente refatorada para oferecer a melhor experiência de
     * Em telas menores, a sidebar se transforma em uma **Gaveta (Drawer)** oculta.
     * Acionamento via botão "Hambúrguer" flutuante.
     * Inclui um **Overlay** escuro no fundo para focar a atenção no menu quando aberto.
+
+      ![prioridadesmobile.jpeg](./assets/preview-desktop.png)
 
 * **🎵 Music Player Integrado:**
     * Player de música Lo-Fi embutido diretamente na navegação.
