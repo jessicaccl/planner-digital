@@ -7,7 +7,7 @@
 
 O **Planner Glow** é uma aplicação web de gerenciamento de tarefas focada em bem-estar e produtividade. Diferente de listas de tarefas comuns, ele integra um design visualmente agradável ("Glow UI"), categorização inteligente e um player de música lo-fi embutido para auxiliar na concentração.
 
-![./src/assets/dashboard.jpg](./assets/preview-desktop.png)
+![dashboard.jpg](./assets/preview-desktop.png)
 
 ## 📸 Visão Geral
 
@@ -17,7 +17,7 @@ O projeto possui um layout moderno e totalmente responsivo, adaptando-se perfeit
 
 * **Gerenciamento de Tarefas:** Adicione, conclua e exclua tarefas com facilidade.
 
-  ![./src/assets/novatarefa.jpg](./assets/preview-desktop.png)
+  ![novatarefa.jpg](./assets/preview-desktop.png)
 
 * **Palavra do Dia:** Um card de inspiração diária com versículos que podem ser trocados aleatoriamente ao clicar no botão de atualizar.
 * **Categorização Inteligente:** Separe suas tarefas em:
@@ -32,7 +32,7 @@ O projeto possui um layout moderno e totalmente responsivo, adaptando-se perfeit
 ### 🧭 Navegação & Sidebar Inteligente
 A barra lateral foi totalmente refatorada para oferecer a melhor experiência de usuário (UX) em qualquer dispositivo:
 
-  ![./src/assets/sidebarmobile.jpeg](./assets/preview-desktop.png)
+  ![sidebarmobile.jpeg](./assets/preview-desktop.png)
 
 * **Comportamento Responsivo (Desktop):**
     * A barra possui dois estados: **Expandida** (280px) e **Recolhida** (80px).
@@ -44,7 +44,7 @@ A barra lateral foi totalmente refatorada para oferecer a melhor experiência de
     * Acionamento via botão "Hambúrguer" flutuante.
     * Inclui um **Overlay** escuro no fundo para focar a atenção no menu quando aberto.
 
-      ![./src/assets/prioridadesmobile.jpeg](./assets/preview-desktop.png)
+      ![prioridadesmobile.jpeg](./assets/preview-desktop.png)
 
 * **🎵 Music Player Integrado:**
     * Player de música Lo-Fi embutido diretamente na navegação.
